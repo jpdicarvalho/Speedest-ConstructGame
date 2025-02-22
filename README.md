@@ -13,3 +13,9 @@ Este jogo foi desenvolvido como parte da disciplina de **Computação Gráfica**
 
 ![Screenshot 2](https://github.com/user-attachments/assets/234640f8-0372-43cf-be7b-2116785949c3)
 
+## 🚀 Como Executar e Modificar o Jogo?
+
+### 🔧 Requisitos:
+- Conta no [Construct 3](https://www.construct.net/en)
+- Arquivo do projeto disponível neste repositório
+
