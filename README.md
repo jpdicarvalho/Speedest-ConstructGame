@@ -33,3 +33,12 @@ Este jogo foi desenvolvido como parte da disciplina de **Computação Gráfica**
    - **Mecânicas**: Ajuste as regras do jogo para novas dinâmicas e desafios.
 2. Depois de realizar as alterações, basta **salvar e exportar** o jogo para testá-lo.
 
+## 📜 Licença
+
+Este projeto é **apenas para fins acadêmicos** e não possui fins comerciais. Sinta-se à vontade para estudar e modificar o código.
+
+---
+
+📢 **Dúvidas ou sugestões?** Entre em contato pelo repositório!
+
+# Isso é tudo pessoal!!
