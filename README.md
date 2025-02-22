@@ -19,3 +19,10 @@ Este jogo foi desenvolvido como parte da disciplina de **Computação Gráfica**
 - Conta no [Construct 3](https://www.construct.net/en)
 - Arquivo do projeto disponível neste repositório
 
+### 📌 Passos para executar:
+1. **Acesse** o [Construct 3](https://www.construct.net/en).
+2. **Faça login** com sua conta.
+3. **Faça o upload** do arquivo `Speedest.c3p` (ou outro nome correspondente do projeto) disponível neste repositório.
+4. Aguarde o **carregamento do projeto**.
+5. Clique no **botão 'Run'** para testar o jogo diretamente na plataforma.
+
