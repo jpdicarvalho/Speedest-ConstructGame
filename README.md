@@ -26,3 +26,10 @@ Este jogo foi desenvolvido como parte da disciplina de **Computação Gráfica**
 4. Aguarde o **carregamento do projeto**.
 5. Clique no **botão 'Run'** para testar o jogo diretamente na plataforma.
 
+### 🛠️ Como Modificar o Jogo?
+1. Após carregar o projeto no Construct 3, você pode acessar os seguintes elementos:
+   - **Eventos e Scripts**: Modifique a lógica do jogo dentro do editor de eventos.
+   - **Sprites e Assets**: Edite os gráficos e a interface para personalizar o jogo.
+   - **Mecânicas**: Ajuste as regras do jogo para novas dinâmicas e desafios.
+2. Depois de realizar as alterações, basta **salvar e exportar** o jogo para testá-lo.
+
